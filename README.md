@@ -52,6 +52,14 @@ Installation of the page is very straightforward. All that is required is to dow
     Version 6:
 
         - Fixed formating issue for README.md.
+        
+    Version 7: 
+    
+        - Updated comments and consolidated list elements.
+
+    Version 8:
+    
+        - Added comments on CSS for easier accessiblity for anyone reading the code and organized the CSS code in the order that they appear on the HTML file.
 
 ## <ins> Credits: </ins>
 
