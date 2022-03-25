@@ -4,6 +4,8 @@
 
 - [Description of the Task](#description-of-the-task)
 - [Description of the Page](#description-of-the-page)
+- [Remarks](#remarks)
+- [Used Programs](#used-programs)
 - [Installation](#installation)
 - [Changelog](#changelog)
 - [Credits](#credits)
@@ -17,9 +19,31 @@ The requested task for this assignment was to review the code that was given to 
 
 What is the purpose of the page? Horiseon is a web-based service provider that aims towards providing assistance in terms of digital media and marketing for any clients looking to boost their standing in the world wide web. Some services include showing up on search engines more frequently, mitigating any negativity that could be lingering pertaining to the client, increasing marketing efficiency and providing leads, and many more services that will in turn boost financial effiency as well in the long run.
 
+## <ins> Remarks: </ins>
+
+I have added numerous comments along both the index.html and style.css files to annotate what a specific part of the code does. Comments on index.html shows where the important elements and sections of the page are. Comments on style.css shows what is being selected and what lines on index.html are being affected.
+
+## <ins> Used Programs: </ins>
+
+- VS Code
+
 ## <ins> Installation: </ins>
 
 Installation of the page is very straightforward. All that is required is to download the folder that is provided in the repository and then upload the index.html file along with the assets folder to your website hosting provider.
+
+<br>
+
+## _Git Clone:_
+
+![Git Clone Tutorial](./assets/images/git-clone-tutorial-1.png)
+
+<br><br><br>
+
+## _Zip Download:_
+
+![Zip Download](./assets/images/zip-tutorial.png)
+
+<br>
 
 ## <ins> Changelog: </ins>
 
@@ -52,14 +76,18 @@ Installation of the page is very straightforward. All that is required is to dow
     Version 6:
 
         - Fixed formating issue for README.md.
-        
-    Version 7: 
-    
+
+    Version 7:
+
         - Updated comments and consolidated list elements.
 
     Version 8:
-    
+
         - Added comments on CSS for easier accessiblity for anyone reading the code and organized the CSS code in the order that they appear on the HTML file.
+
+    Version 9:
+
+        - Added Used Programs, Remarks, and screenshots under README.
 
 ## <ins> Credits: </ins>
 
